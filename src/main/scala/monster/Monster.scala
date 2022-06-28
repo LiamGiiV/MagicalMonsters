@@ -1,6 +1,6 @@
 package monster
 
-import custom_types.Name
+import custom_types.{Name, IdNumber}
 import habitat.{Habitat, Biome}
 
 class Monster(
@@ -13,6 +13,7 @@ class Monster(
     loacationIn: Location
 ) extends BodyType
     with Name {
+  val idNumber: IdNumber = new IdNumber()
   def theName: String = nameIn // % seems busted
   override def requiredBodyParts: List[BodyPart] = bodyPartsIn
   override def preferredBiome: Biome = biomeIn

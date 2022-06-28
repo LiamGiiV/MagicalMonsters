@@ -1,6 +1,6 @@
 import zio.*
 import zio.Console.printLine
-import monster.{BaseStatistics, BodyPart, Leg, Monster, Wing}
+import monster.{BaseStatistics, BodyPart, Leg, Location, Monster, Wing}
 import habitat.Biome
 
 object Main extends ZIOAppDefault {
@@ -17,6 +17,8 @@ object Main extends ZIOAppDefault {
   val baseStatistics: Option[BaseStatistics] =
     BaseStatistics
       .createBaseStatistics(10, 10, 0.5, 10, 10, 10, 10, 10, 0.5)
+  val myCoolLocation = new Location(10, 10, 11)
+
   val myCoolMonster =
     new Monster(
       "Betsy",
@@ -24,8 +26,22 @@ object Main extends ZIOAppDefault {
       habitat.Biome.Volcano,
       5,
       150,
-      baseStatistics.get
+      baseStatistics.get,
+      myCoolLocation
     )
 
+  val myCoolMonster2 =
+    new Monster(
+      "Betsy",
+      bodyPartList,
+      habitat.Biome.Volcano,
+      5,
+      150,
+      baseStatistics.get,
+      myCoolLocation
+    )
+
+  println(myCoolMonster.idNumber.theIdNumber)
+  println(myCoolMonster2.idNumber.theIdNumber)
   println(myCoolMonster.toString)
 }
