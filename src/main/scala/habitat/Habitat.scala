@@ -9,7 +9,7 @@ class Habitat(
     averageTemperatureInCelsiusIn: Float,
     highTemperatureInCelsiusIn: Float,
     lowTemperatureInCelsiusIn: Float
-) extends Name {
+) {
   def theName: String = nameIn
   def biome: Biome = biomeIn
   def areaInKM2: Float = areaInKM2In

@@ -1,0 +1,559 @@
+2022.06.22 11:33:38 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\liam\Code\MagicalMonsters\.metals\lsp.trace.json or C:\Users\liam\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.06.22 11:33:44 INFO  logging to file C:\Users\liam\Code\MagicalMonsters\.metals\metals.log
+2022.06.22 11:33:44 INFO  Started: Metals version 0.11.6 in workspace 'C:\Users\liam\Code\MagicalMonsters' for client Visual Studio Code 1.66.2.
+2022.06.22 11:33:44 WARN  Can't instantiate JavaInteractiveSemanticdb (version: Some(JdkVersion(8)), jdkHome: C:\Program Files\Java\jre1.8.0_261, javac exists: false)
+2022.06.22 11:33:45 INFO  time: initialize in 0.7s
+2022.06.22 11:33:45 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.06.22 11:33:46 WARN  Build server is not auto-connectable.
+2022.06.22 11:33:48 WARN  no build target for: C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\HasWings.scala
+2022.06.22 11:33:52 INFO  running 'C:\Program Files\Java\jre1.8.0_261\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\liam\AppData\Local\Temp\metals1885563643465753226\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.06.22 11:34:01 INFO  no build target found for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\HasWings.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.06.22 11:34:04 INFO  [info] welcome to sbt 1.6.2 (Oracle Corporation Java 1.8.0_261)
+2022.06.22 11:34:13 INFO  [info] loading global plugins from C:\Users\liam\.sbt\1.0\plugins
+2022.06.22 11:34:15 INFO  time: code lens generation in 22s
+2022.06.22 11:34:15 INFO  time: code lens generation in 25s
+2022.06.22 11:34:15 INFO  time: code lens generation in 25s
+2022.06.22 11:34:20 INFO  [info] loading settings for project magicalmonsters-build-build from metals.sbt ...
+2022.06.22 11:34:20 INFO  [info] loading project definition from C:\Users\liam\Code\MagicalMonsters\project\project
+2022.06.22 11:34:22 INFO  shutting down Metals
+2022.06.22 11:34:59 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\liam\Code\MagicalMonsters\.metals\lsp.trace.json or C:\Users\liam\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.06.22 11:35:02 INFO  logging to file C:\Users\liam\Code\MagicalMonsters\.metals\metals.log
+2022.06.22 11:35:02 INFO  Started: Metals version 0.11.6 in workspace 'C:\Users\liam\Code\MagicalMonsters' for client Visual Studio Code 1.68.1.
+2022.06.22 11:35:02 WARN  Can't instantiate JavaInteractiveSemanticdb (version: Some(JdkVersion(8)), jdkHome: C:\Program Files\Java\jre1.8.0_261, javac exists: false)
+2022.06.22 11:35:02 INFO  time: initialize in 0.44s
+2022.06.22 11:35:03 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.06.22 11:35:03 WARN  Build server is not auto-connectable.
+2022.06.22 11:35:04 INFO  skipping build import with status 'Started'
+2022.06.22 11:35:27 WARN  no build target for: C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.22 11:35:28 INFO  no build target found for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.06.22 11:35:31 INFO  time: code lens generation in 3.74s
+2022.06.22 11:35:32 WARN  no build target for: C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\BodyPart.scala
+2022.06.22 11:35:34 WARN  no build target for: C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\HasWings.scala
+2022.06.22 11:35:57 INFO  running 'C:\Program Files\Java\jre1.8.0_261\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\liam\AppData\Local\Temp\metals8342788406145669333\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.06.22 11:35:59 INFO  [info] welcome to sbt 1.6.2 (Oracle Corporation Java 1.8.0_261)
+2022.06.22 11:36:01 INFO  [info] loading global plugins from C:\Users\liam\.sbt\1.0\plugins
+2022.06.22 11:36:03 INFO  [info] loading settings for project magicalmonsters-build-build from metals.sbt ...
+2022.06.22 11:36:03 INFO  [info] loading project definition from C:\Users\liam\Code\MagicalMonsters\project\project
+2022.06.22 11:36:13 INFO  [info] loading settings for project magicalmonsters-build from metals.sbt ...
+2022.06.22 11:36:13 INFO  [info] loading project definition from C:\Users\liam\Code\MagicalMonsters\project
+2022.06.22 11:36:16 INFO  [success] Generated .bloop\magicalmonsters-build.json
+2022.06.22 11:36:16 INFO  [success] Total time: 3 s, completed 22-Jun-2022 11:36:16 AM
+2022.06.22 11:36:19 INFO  [info] loading settings for project root from build.sbt ...
+2022.06.22 11:36:19 INFO  [info] set current project to MagicalMonsters (in build file:/C:/Users/liam/Code/MagicalMonsters/)
+2022.06.22 11:36:20 INFO  [success] Generated .bloop\root.json
+2022.06.22 11:36:20 INFO  [success] Generated .bloop\root-test.json
+2022.06.22 11:36:20 INFO  [success] Total time: 1 s, completed 22-Jun-2022 11:36:20 AM
+2022.06.22 11:36:21 INFO  time: ran 'sbt bloopInstall' in 23s
+2022.06.22 11:36:21 INFO  Attempting to connect to the build server...
+2022.06.22 11:36:40 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\liam\Code\MagicalMonsters\.metals\bsp.trace.json or C:\Users\liam\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.06.22 11:36:43 INFO  Attempting to connect to the build server...
+2022.06.22 11:36:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\liam\Code\MagicalMonsters\project\.metals\bsp.trace.json or C:\Users\liam\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.06.22 11:36:46 INFO  time: Connected to build server in 24s
+2022.06.22 11:36:46 INFO  Connected to Build server: Bloop v1.5.0-18-003e6c7b
+2022.06.22 11:36:46 INFO  time: Imported build in 0.18s
+2022.06.22 11:36:52 INFO  Required scalafmt dialect rewrite to 'scala3'. Directories:
+- src\main\scala
+2022.06.22 11:36:53 WARN  Could not find java sources in C:\Program Files\Java\src.zip, C:\Program Files\Java\lib\src.zip, C:\Program Files\Java\jre1.8.0_261\src.zip, C:\Program Files\Java\jre1.8.0_261\lib\src.zip. Java symbols will not be available.
+2022.06.22 11:36:57 WARN  Could not find java sources in C:\Program Files\Java\src.zip, C:\Program Files\Java\lib\src.zip, C:\Program Files\Java\jre1.8.0_261\src.zip, C:\Program Files\Java\jre1.8.0_261\lib\src.zip. Java symbols will not be available.
+2022.06.22 11:36:57 INFO  time: indexed workspace in 10s
+2022.06.22 11:36:58 INFO  compiling root (4 scala sources)
+2022.06.22 11:37:09 INFO  time: compiled root in 11s
+2022.06.22 11:39:03 INFO  shutting down Metals
+2022.06.22 11:39:03 INFO  Shut down connection with build server.
+2022.06.22 11:39:03 INFO  Shut down connection with build server.
+2022.06.23 14:00:09 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\liam\Code\MagicalMonsters\.metals\lsp.trace.json or C:\Users\liam\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.06.23 14:00:11 INFO  logging to file C:\Users\liam\Code\MagicalMonsters\.metals\metals.log
+2022.06.23 14:00:11 INFO  Started: Metals version 0.11.6 in workspace 'C:\Users\liam\Code\MagicalMonsters' for client Visual Studio Code 1.68.1.
+2022.06.23 14:00:11 WARN  Can't instantiate JavaInteractiveSemanticdb (version: Some(JdkVersion(8)), jdkHome: C:\Program Files\Java\jre1.8.0_261, javac exists: false)
+2022.06.23 14:00:11 INFO  time: initialize in 0.43s
+2022.06.23 14:00:11 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.06.23 14:00:12 INFO  Attempting to connect to the build server...
+2022.06.23 14:00:12 INFO  skipping build import with status 'Installed'
+2022.06.23 14:00:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\liam\Code\MagicalMonsters\.metals\bsp.trace.json or C:\Users\liam\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.06.23 14:00:12 INFO  Attempting to connect to the build server...
+2022.06.23 14:00:13 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\liam\Code\MagicalMonsters\project\.metals\bsp.trace.json or C:\Users\liam\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.06.23 14:00:13 INFO  time: Connected to build server in 1.22s
+2022.06.23 14:00:13 INFO  Connected to Build server: Bloop v1.5.0-18-003e6c7b
+2022.06.23 14:00:13 INFO  time: Imported build in 0.18s
+2022.06.23 14:00:18 WARN  Could not find java sources in C:\Program Files\Java\src.zip, C:\Program Files\Java\lib\src.zip, C:\Program Files\Java\jre1.8.0_261\src.zip, C:\Program Files\Java\jre1.8.0_261\lib\src.zip. Java symbols will not be available.
+2022.06.23 14:00:21 WARN  Could not find java sources in C:\Program Files\Java\src.zip, C:\Program Files\Java\lib\src.zip, C:\Program Files\Java\jre1.8.0_261\src.zip, C:\Program Files\Java\jre1.8.0_261\lib\src.zip. Java symbols will not be available.
+2022.06.23 14:00:21 INFO  time: indexed workspace in 7.42s
+2022.06.23 14:02:10 INFO  compiling root (7 scala sources)
+2022.06.23 14:02:12 INFO  time: compiled root in 2.5s
+2022.06.23 14:02:46 INFO  compiling root (7 scala sources)
+2022.06.23 14:02:46 INFO  time: compiled root in 0.7s
+2022.06.23 14:03:11 INFO  compiling root (7 scala sources)
+2022.06.23 14:03:11 INFO  time: compiled root in 0.69s
+2022.06.23 14:03:26 INFO  compiling root (7 scala sources)
+2022.06.23 14:03:26 INFO  time: compiled root in 0.62s
+2022.06.23 14:03:43 INFO  compiling root (7 scala sources)
+2022.06.23 14:03:45 INFO  time: compiled root in 1.65s
+2022.06.23 14:03:58 ERROR code navigation does not work for the file 'C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala' because the SemanticDB file 'C:\Users\liam\Code\MagicalMonsters\.bloop\root\bloop-bsp-clients-classes\classes-Metals-eSAA3HVsRs6I5bDEqzZxCQ==\META-INF\semanticdb\src\main\scala\monster\Monster.scala.semanticdb' doesn't exist. There can be many reasons for this error. 
+2022.06.23 14:04:11 ERROR code navigation does not work for the file 'C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala' because the SemanticDB file 'C:\Users\liam\Code\MagicalMonsters\.bloop\root\bloop-bsp-clients-classes\classes-Metals-eSAA3HVsRs6I5bDEqzZxCQ==\META-INF\semanticdb\src\main\scala\monster\Monster.scala.semanticdb' doesn't exist. There can be many reasons for this error. 
+2022.06.23 14:04:12 INFO  compiling root (7 scala sources)
+2022.06.23 14:04:12 INFO  time: compiled root in 0.98s
+2022.06.23 14:04:23 INFO  compiling root (7 scala sources)
+2022.06.23 14:04:23 INFO  time: compiled root in 0.43s
+2022.06.23 14:04:31 INFO  compiling root (7 scala sources)
+2022.06.23 14:04:31 INFO  time: compiled root in 0.37s
+2022.06.23 14:04:39 ERROR code navigation does not work for the file 'C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala' because the SemanticDB file 'C:\Users\liam\Code\MagicalMonsters\.bloop\root\bloop-bsp-clients-classes\classes-Metals-eSAA3HVsRs6I5bDEqzZxCQ==\META-INF\semanticdb\src\main\scala\monster\Monster.scala.semanticdb' doesn't exist. There can be many reasons for this error. 
+2022.06.23 14:04:49 INFO  compiling root (7 scala sources)
+2022.06.23 14:04:49 INFO  time: compiled root in 0.97s
+2022.06.23 14:05:24 INFO  compiling root (7 scala sources)
+2022.06.23 14:05:28 INFO  time: compiled root in 3.92s
+2022.06.23 14:05:30 INFO  compiling root (7 scala sources)
+2022.06.23 14:05:31 INFO  time: compiled root in 1.13s
+2022.06.23 14:05:54 ERROR code navigation does not work for the file 'C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala' because the SemanticDB file 'C:\Users\liam\Code\MagicalMonsters\.bloop\root\bloop-bsp-clients-classes\classes-Metals-eSAA3HVsRs6I5bDEqzZxCQ==\META-INF\semanticdb\src\main\scala\monster\Monster.scala.semanticdb' doesn't exist. There can be many reasons for this error. 
+2022.06.23 14:05:59 INFO  compiling root (7 scala sources)
+2022.06.23 14:05:59 INFO  time: compiled root in 0.27s
+2022.06.23 14:06:02 INFO  compiling root (7 scala sources)
+2022.06.23 14:06:02 INFO  time: compiled root in 0.36s
+2022.06.23 14:06:09 INFO  compiling root (7 scala sources)
+2022.06.23 14:06:09 INFO  time: compiled root in 0.67s
+2022.06.23 14:06:13 ERROR code navigation does not work for the file 'C:\Users\liam\Code\MagicalMonsters\src\main\scala\habitat\Habitat.scala' because the SemanticDB file 'C:\Users\liam\Code\MagicalMonsters\.bloop\root\bloop-bsp-clients-classes\classes-Metals-eSAA3HVsRs6I5bDEqzZxCQ==\META-INF\semanticdb\src\main\scala\habitat\Habitat.scala.semanticdb' doesn't exist. There can be many reasons for this error. 
+2022.06.23 14:06:15 INFO  compiling root (7 scala sources)
+2022.06.23 14:06:15 INFO  time: compiled root in 0.24s
+Jun 23, 2022 2:08:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 315
+Jun 23, 2022 2:09:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 331
+2022.06.23 14:11:43 INFO  compiling root (7 scala sources)
+2022.06.23 14:11:43 INFO  time: compiled root in 0.12s
+2022.06.23 14:11:49 ERROR code navigation does not work for the file 'C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala' because the SemanticDB file 'C:\Users\liam\Code\MagicalMonsters\.bloop\root\bloop-bsp-clients-classes\classes-Metals-eSAA3HVsRs6I5bDEqzZxCQ==\META-INF\semanticdb\src\main\scala\monster\Monster.scala.semanticdb' doesn't exist. There can be many reasons for this error. 
+2022.06.23 14:11:56 ERROR code navigation does not work for the file 'C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala' because the SemanticDB file 'C:\Users\liam\Code\MagicalMonsters\.bloop\root\bloop-bsp-clients-classes\classes-Metals-eSAA3HVsRs6I5bDEqzZxCQ==\META-INF\semanticdb\src\main\scala\monster\Monster.scala.semanticdb' doesn't exist. There can be many reasons for this error. 
+2022.06.23 14:11:59 ERROR code navigation does not work for the file 'C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala' because the SemanticDB file 'C:\Users\liam\Code\MagicalMonsters\.bloop\root\bloop-bsp-clients-classes\classes-Metals-eSAA3HVsRs6I5bDEqzZxCQ==\META-INF\semanticdb\src\main\scala\monster\Monster.scala.semanticdb' doesn't exist. There can be many reasons for this error. 
+2022.06.23 14:12:53 INFO  compiling root (7 scala sources)
+2022.06.23 14:12:53 INFO  time: compiled root in 0.16s
+2022.06.23 14:13:00 INFO  compiling root (7 scala sources)
+2022.06.23 14:13:01 INFO  time: compiled root in 1.79s
+Jun 23, 2022 2:16:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 8 is not a valid line number, allowed [0..7]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.lineLength$1(Position.scala:57)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:60)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:76)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:75)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:64)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:63)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:63)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1649)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1648)
+	... 15 more
+
+Jun 23, 2022 2:19:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 10 is not a valid line number, allowed [0..7]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:76)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:75)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:64)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:63)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:63)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1649)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1648)
+	... 15 more
+
+2022.06.23 14:43:24 INFO  compiling root (9 scala sources)
+2022.06.23 14:43:26 INFO  time: compiled root in 1.94s
+2022.06.23 15:02:42 INFO  compiling root (4 scala sources)
+2022.06.23 15:02:44 INFO  time: compiled root in 1.53s
+2022.06.23 15:02:47 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:02:47 INFO  compiling root (4 scala sources)
+2022.06.23 15:02:47 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:02:49 INFO  time: compiled root in 2.14s
+2022.06.23 15:02:52 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:02:55 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:02:55 INFO  compiling root (4 scala sources)
+2022.06.23 15:02:55 INFO  time: compiled root in 0.78s
+2022.06.23 15:02:58 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:03:00 INFO  compiling root (4 scala sources)
+2022.06.23 15:03:01 INFO  time: compiled root in 1.12s
+2022.06.23 15:03:03 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:03:03 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:03:11 INFO  compiling root (4 scala sources)
+2022.06.23 15:03:11 INFO  time: compiled root in 0.2s
+2022.06.23 15:03:13 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:03:13 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:03:13 INFO  compiling root (4 scala sources)
+2022.06.23 15:03:13 INFO  time: compiled root in 0.16s
+2022.06.23 15:03:13 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:03:16 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:03:21 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:03:23 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:03:23 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:03:24 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:03:23 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:03:23 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:03:24 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:03:24 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:03:25 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:03:25 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:03:25 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:03:26 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:03:26 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:03:26 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:03:26 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:03:30 INFO  compiling root (4 scala sources)
+2022.06.23 15:03:30 INFO  time: compiled root in 0.17s
+2022.06.23 15:03:32 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:03:38 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:03:45 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:03:45 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:03:49 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:01 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:01 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:01 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:02 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:02 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:03 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:03 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:05 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:05 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:05 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:05 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:05 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:08 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:08 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:08 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:08 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:09 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:10 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:10 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:10 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:10 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:10 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:11 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:12 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:13 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:13 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:13 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:13 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:17 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:17 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:17 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:17 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:24 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:25 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:24 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:26 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:26 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:26 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:26 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:27 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:27 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:28 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:27 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:33 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:33 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:35 INFO  compiling root (4 scala sources)
+2022.06.23 15:04:35 INFO  time: compiled root in 0.15s
+2022.06.23 15:04:38 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:40 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:40 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:41 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:40 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:41 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:41 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:41 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:43 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:43 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:43 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:43 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:44 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:43 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:46 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:46 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:46 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:47 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:47 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:47 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:47 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:48 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:48 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:50 INFO  compiling root (4 scala sources)
+2022.06.23 15:04:50 INFO  time: compiled root in 0.15s
+2022.06.23 15:04:52 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:53 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:57 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:57 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:04:59 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:02 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:02 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:02 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:02 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:03 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:04 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:04 INFO  compiling root (4 scala sources)
+2022.06.23 15:05:04 INFO  time: compiled root in 0.16s
+2022.06.23 15:05:07 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:15 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:17 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:17 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:17 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:17 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:17 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:18 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:17 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:18 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:18 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:18 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:18 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:19 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:23 INFO  compiling root (4 scala sources)
+2022.06.23 15:05:23 INFO  time: compiled root in 0.14s
+2022.06.23 15:05:25 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:31 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:32 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:32 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:49 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:49 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:51 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:51 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:54 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:54 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:56 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:56 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:58 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:05:58 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:06:01 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:06:01 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:06:01 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:06:05 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:06:05 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:06:06 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:06:06 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:06:06 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\Main.scala
+2022.06.23 15:06:08 INFO  compiling root (4 scala sources)
+2022.06.23 15:06:08 INFO  time: compiled root in 0.8s
+Jun 23, 2022 3:06:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: scala.meta.internal.metals.MetalsBspException: BSP connection failed in the attempt to get: DebugSessionAddress.  Debugging is not supported because bloop server is running on a JRE C:\Program Files\Java\jre1.8.0_261 with no support for Java Debug Interface: 'JDI implementation is not provided by the vendor'. To enable debugging, install a JDK and restart the bloop server.
+
+Run bloop about for more information about the current JDK runtime.
+java.util.concurrent.CompletionException: scala.meta.internal.metals.MetalsBspException: BSP connection failed in the attempt to get: DebugSessionAddress.  Debugging is not supported because bloop server is running on a JRE C:\Program Files\Java\jre1.8.0_261 with no support for Java Debug Interface: 'JDI implementation is not provided by the vendor'. To enable debugging, install a JDK and restart the bloop server.
+
+Run bloop about for more information about the current JDK runtime.
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source)
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source)
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.util.concurrent.CompletableFuture.completeExceptionally(Unknown Source)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:29)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:26)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at scala.concurrent.ExecutionContext$parasitic$.execute(ExecutionContext.scala:222)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:429)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:504)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: scala.meta.internal.metals.MetalsBspException: BSP connection failed in the attempt to get: DebugSessionAddress.  Debugging is not supported because bloop server is running on a JRE C:\Program Files\Java\jre1.8.0_261 with no support for Java Debug Interface: 'JDI implementation is not provided by the vendor'. To enable debugging, install a JDK and restart the bloop server.
+
+Run bloop about for more information about the current JDK runtime.
+	at scala.meta.internal.metals.BuildServerConnection$$anonfun$1.$anonfun$applyOrElse$4(BuildServerConnection.scala:300)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.BuildServerConnection$$anonfun$1.applyOrElse(BuildServerConnection.scala:298)
+	at scala.meta.internal.metals.BuildServerConnection$$anonfun$1.applyOrElse(BuildServerConnection.scala:286)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:490)
+	... 3 more
+
+2022.06.23 15:06:28 INFO  Deduplicating compilation of root from bsp client 'Metals 0.11.6' (since 1h 6m 14.963s)
+Jun 23, 2022 3:06:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: scala.meta.internal.metals.MetalsBspException: BSP connection failed in the attempt to get: DebugSessionAddress.  Debugging is not supported because bloop server is running on a JRE C:\Program Files\Java\jre1.8.0_261 with no support for Java Debug Interface: 'JDI implementation is not provided by the vendor'. To enable debugging, install a JDK and restart the bloop server.
+
+Run bloop about for more information about the current JDK runtime.
+java.util.concurrent.CompletionException: scala.meta.internal.metals.MetalsBspException: BSP connection failed in the attempt to get: DebugSessionAddress.  Debugging is not supported because bloop server is running on a JRE C:\Program Files\Java\jre1.8.0_261 with no support for Java Debug Interface: 'JDI implementation is not provided by the vendor'. To enable debugging, install a JDK and restart the bloop server.
+
+Run bloop about for more information about the current JDK runtime.
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source)
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source)
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.util.concurrent.CompletableFuture.completeExceptionally(Unknown Source)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:29)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:26)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at scala.concurrent.ExecutionContext$parasitic$.execute(ExecutionContext.scala:222)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:429)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:504)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: scala.meta.internal.metals.MetalsBspException: BSP connection failed in the attempt to get: DebugSessionAddress.  Debugging is not supported because bloop server is running on a JRE C:\Program Files\Java\jre1.8.0_261 with no support for Java Debug Interface: 'JDI implementation is not provided by the vendor'. To enable debugging, install a JDK and restart the bloop server.
+
+Run bloop about for more information about the current JDK runtime.
+	at scala.meta.internal.metals.BuildServerConnection$$anonfun$1.$anonfun$applyOrElse$4(BuildServerConnection.scala:300)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.BuildServerConnection$$anonfun$1.applyOrElse(BuildServerConnection.scala:298)
+	at scala.meta.internal.metals.BuildServerConnection$$anonfun$1.applyOrElse(BuildServerConnection.scala:286)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:490)
+	... 3 more
+
+2022.06.23 15:09:31 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+2022.06.23 15:12:37 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+2022.06.23 15:12:41 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+2022.06.23 15:18:50 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+2022.06.23 15:18:50 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+2022.06.23 15:18:50 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+2022.06.23 21:10:32 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+2022.06.23 21:11:01 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+2022.06.23 21:30:45 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+2022.06.23 21:30:45 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+2022.06.23 21:30:46 INFO  compiling root (3 scala sources)
+2022.06.23 21:30:48 INFO  time: compiled root in 2.08s
+2022.06.23 22:12:28 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+2022.06.23 22:16:06 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+2022.06.23 22:16:08 INFO  compiling root (1 scala source)
+2022.06.23 22:16:08 INFO  time: compiled root in 0.31s
+2022.06.24 18:21:21 INFO  shutting down Metals
+2022.06.24 18:21:21 INFO  Shut down connection with build server.
+2022.06.24 18:21:21 INFO  Shut down connection with build server.
+2022.06.27 16:21:56 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\liam\Code\MagicalMonsters\.metals\lsp.trace.json or C:\Users\liam\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.06.27 16:21:58 INFO  logging to file C:\Users\liam\Code\MagicalMonsters\.metals\metals.log
+2022.06.27 16:21:58 INFO  Started: Metals version 0.11.6 in workspace 'C:\Users\liam\Code\MagicalMonsters' for client Visual Studio Code 1.68.1.
+2022.06.27 16:21:58 WARN  Can't instantiate JavaInteractiveSemanticdb (version: Some(JdkVersion(8)), jdkHome: C:\Program Files\Java\jre1.8.0_261, javac exists: false)
+2022.06.27 16:21:59 INFO  time: initialize in 0.61s
+2022.06.27 16:21:59 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.06.27 16:22:00 INFO  Attempting to connect to the build server...
+2022.06.27 16:22:19 INFO  no build target found for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala. Using presentation compiler with project's scala-library version: 3.1.2
+Jun 27, 2022 4:22:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2022.06.27 16:22:32 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\liam\Code\MagicalMonsters\.metals\bsp.trace.json or C:\Users\liam\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.06.27 16:22:32 INFO  time: code lens generation in 27s
+2022.06.27 16:22:32 INFO  time: code lens generation in 11s
+2022.06.27 16:22:33 INFO  time: code lens generation in 28s
+2022.06.27 16:22:34 INFO  Attempting to connect to the build server...
+2022.06.27 16:22:34 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\liam\Code\MagicalMonsters\project\.metals\bsp.trace.json or C:\Users\liam\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.06.27 16:22:34 INFO  time: Connected to build server in 33s
+2022.06.27 16:22:34 INFO  Connected to Build server: Bloop v1.5.0-18-003e6c7b
+2022.06.27 16:22:35 INFO  time: Imported build in 0.77s
+2022.06.27 16:22:39 WARN  Could not find java sources in C:\Program Files\Java\src.zip, C:\Program Files\Java\lib\src.zip, C:\Program Files\Java\jre1.8.0_261\src.zip, C:\Program Files\Java\jre1.8.0_261\lib\src.zip. Java symbols will not be available.
+2022.06.27 16:22:41 WARN  Could not find java sources in C:\Program Files\Java\src.zip, C:\Program Files\Java\lib\src.zip, C:\Program Files\Java\jre1.8.0_261\src.zip, C:\Program Files\Java\jre1.8.0_261\lib\src.zip. Java symbols will not be available.
+2022.06.27 16:22:41 INFO  time: indexed workspace in 5.7s
+2022.06.27 16:23:51 INFO  compiling root (10 scala sources)
+2022.06.27 16:23:59 INFO  time: compiled root in 8s
+2022.06.27 16:24:01 INFO  compiling root (10 scala sources)
+2022.06.27 16:24:02 INFO  running 'C:\Program Files\Java\jre1.8.0_261\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\liam\AppData\Local\Temp\metals5243102108361943645\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.06.27 16:24:05 INFO  time: compiled root in 3.81s
+2022.06.27 16:24:08 INFO  compiling root (10 scala sources)
+2022.06.27 16:24:11 INFO  time: compiled root in 3.25s
+2022.06.27 16:24:14 INFO  [info] welcome to sbt 1.6.2 (Oracle Corporation Java 1.8.0_261)
+2022.06.27 16:24:20 INFO  [info] loading global plugins from C:\Users\liam\.sbt\1.0\plugins
+2022.06.27 16:24:30 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+2022.06.27 16:24:31 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+2022.06.27 16:24:31 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+2022.06.27 16:24:34 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+2022.06.27 16:24:34 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+2022.06.27 16:24:34 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+2022.06.27 16:24:35 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+2022.06.27 16:24:36 INFO  compiling root (10 scala sources)
+2022.06.27 16:24:37 INFO  [info] loading settings for project magicalmonsters-build-build from metals.sbt ...
+2022.06.27 16:24:37 INFO  [info] loading project definition from C:\Users\liam\Code\MagicalMonsters\project\project
+2022.06.27 16:24:39 INFO  time: compiled root in 2.54s
+2022.06.27 16:24:40 INFO  [info] loading settings for project magicalmonsters-build from metals.sbt ...
+2022.06.27 16:24:40 INFO  [info] loading project definition from C:\Users\liam\Code\MagicalMonsters\project
+2022.06.27 16:24:48 INFO  [success] Generated .bloop\magicalmonsters-build.json
+2022.06.27 16:24:48 INFO  [success] Total time: 7 s, completed 27-Jun-2022 4:24:48 PM
+2022.06.27 16:24:49 INFO  [info] loading settings for project root from build.sbt ...
+2022.06.27 16:24:49 INFO  [info] set current project to MagicalMonsters (in build file:/C:/Users/liam/Code/MagicalMonsters/)
+2022.06.27 16:24:51 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+2022.06.27 16:24:52 INFO  [success] Generated .bloop\root.json
+2022.06.27 16:24:52 INFO  [success] Generated .bloop\root-test.json
+2022.06.27 16:24:52 INFO  [success] Total time: 2 s, completed 27-Jun-2022 4:24:52 PM
+2022.06.27 16:24:52 INFO  time: ran 'sbt bloopInstall' in 49s
+2022.06.27 16:24:52 INFO  Disconnecting from Bloop session...
+2022.06.27 16:24:52 INFO  Shut down connection with build server.
+2022.06.27 16:24:52 INFO  Shut down connection with build server.
+2022.06.27 16:24:52 INFO  Attempting to connect to the build server...
+2022.06.27 16:24:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\liam\Code\MagicalMonsters\.metals\bsp.trace.json or C:\Users\liam\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.06.27 16:24:52 INFO  Attempting to connect to the build server...
+2022.06.27 16:24:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\liam\Code\MagicalMonsters\project\.metals\bsp.trace.json or C:\Users\liam\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.06.27 16:24:52 INFO  time: Connected to build server in 0.25s
+2022.06.27 16:24:52 INFO  Connected to Build server: Bloop v1.5.0-18-003e6c7b
+2022.06.27 16:24:52 INFO  time: Imported build in 0.13s
+2022.06.27 16:24:54 WARN  Could not find java sources in C:\Program Files\Java\src.zip, C:\Program Files\Java\lib\src.zip, C:\Program Files\Java\jre1.8.0_261\src.zip, C:\Program Files\Java\jre1.8.0_261\lib\src.zip. Java symbols will not be available.
+2022.06.27 16:24:56 WARN  Could not find java sources in C:\Program Files\Java\src.zip, C:\Program Files\Java\lib\src.zip, C:\Program Files\Java\jre1.8.0_261\src.zip, C:\Program Files\Java\jre1.8.0_261\lib\src.zip. Java symbols will not be available.
+2022.06.27 16:24:56 INFO  time: indexed workspace in 3.83s
+2022.06.27 16:24:57 INFO  compiling root (10 scala sources)
+2022.06.27 16:24:59 INFO  time: compiled root in 2.21s
+2022.06.27 16:25:04 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+2022.06.27 16:25:05 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+Jun 27, 2022 4:25:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 81
+2022.06.27 16:25:30 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+2022.06.27 16:25:30 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+2022.06.27 16:25:30 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+2022.06.27 16:25:30 INFO  compiling root (10 scala sources)
+2022.06.27 16:25:30 INFO  time: compiled root in 0.35s
+2022.06.27 16:25:36 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+2022.06.27 16:25:40 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+2022.06.27 16:25:42 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+2022.06.27 16:25:42 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+2022.06.27 16:25:42 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+2022.06.27 16:26:59 WARN  Could not load snapshot text for C:\Users\liam\Code\MagicalMonsters\src\main\scala\monster\Monster.scala
+2022.06.27 16:28:25 INFO  file:///C:/Users/liam/Code/MagicalMonsters/src/main/scala/Main.scala:17:5: stale bloop error: missing argument for parameter baseStatisticsIn of constructor Monster in class Monster: (nameIn: String, bodyPartsIn: List[monster.BodyPart], biomeIn: habitat.Biome, 
+  minimumTemperatureInCelsiusIn
+: Float, maximumTemperatureInCelsiusIn: Float, baseStatisticsIn: 
+  monster.BaseStatistics
+): monster.Monster
+    new Monster("Betsy", bodyPartList, habitat.Biome.Volcano, 5, 150)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
