@@ -1,6 +1,5 @@
 This is a silly game about making monsters and a demonstration of various Scala concepts.
 
-
 Composition: BaseStatistics trait composing Biome type, see BaseStatistic.scala
     - Otherwise known as Mixin(sic)
 Inheritance: Wing trait, see Wing.scala
@@ -21,3 +20,16 @@ enum: BodyPartMaterialType, see BodyPart.Scala
 Functions:
 Anonymous function:
 Function assignment to a variable: sayMyName, see Name.scala
+
+Scala Language Features:
+Option: validateInputByBoundaries function, see Point.scala
+
+Primitive Types:
+Nothing:
+Null:
+Any:
+AnyVal:
+AnyRef:
+
+Type Casting:
+Char to Int:

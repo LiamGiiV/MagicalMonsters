@@ -1,8 +1,0 @@
-[debug] > Exec(lol, None, None)
-[error] Not a valid command: lol (similar: shell, loadp, reload)
-[error] Not a valid project ID: lol
-[error] Expected ':'
-[error] Not a valid key: lol (similar: doc, sLog, toFile)
-[error] lol
-[error]    ^
-[debug] > Exec(idea-shell, None, None)

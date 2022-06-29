@@ -1,7 +1,8 @@
 package monster
 
+import custom_types.Point
+
 case class Location(
-    latitude: Float,
-    longitude: Float,
+    longitudeAndLatitude: Point,
     heightFromSeaLevelInMeters: Float
 )

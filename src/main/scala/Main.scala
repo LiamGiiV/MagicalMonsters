@@ -2,6 +2,7 @@ import zio.*
 import zio.Console.printLine
 import monster.{BaseStatistics, BodyPart, Leg, Location, Monster, Wing}
 import habitat.Biome
+import custom_types.Point
 
 object Main extends ZIOAppDefault {
   // % TODO: make this meaningfully a Zio app, find some cool way to tie it into the theme
@@ -17,7 +18,8 @@ object Main extends ZIOAppDefault {
   val baseStatistics: Option[BaseStatistics] =
     BaseStatistics
       .createBaseStatistics(10, 10, 0.5, 10, 10, 10, 10, 10, 0.5)
-  val myCoolLocation = new Location(10, 10, 11)
+  val myCoolPoint: Point = new Point(10, 10, 0, 100)
+  val myCoolLocation: Location = Location(myCoolPoint, 11)
 
   val myCoolMonster =
     new Monster(
