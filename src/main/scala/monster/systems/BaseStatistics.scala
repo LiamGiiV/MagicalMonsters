@@ -1,4 +1,4 @@
-package monster
+package monster.systems
 
 sealed trait BaseStatistics() {
   def hitPoints: Int

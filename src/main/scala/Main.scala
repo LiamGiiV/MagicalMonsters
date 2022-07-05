@@ -1,8 +1,9 @@
 import zio.*
 import zio.Console.printLine
-import monster.{BaseStatistics, BodyPart, Leg, Location, Monster, Wing}
+import monster.{BodyPart, Leg, Location, Monster, Wing}
 import habitat.Biome
 import custom_types.Point
+import monster.systems.BaseStatistics
 
 object Main extends ZIOAppDefault {
   // % TODO: make this meaningfully a Zio app, find some cool way to tie it into the theme

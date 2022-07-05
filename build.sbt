@@ -1,7 +1,9 @@
+ThisBuild / name := "Magical Monsters"
+ThisBuild / version := "0.0.0.1"
 ThisBuild / scalaVersion := "3.1.3"
 ThisBuild / version := "0.1.0-SNAPSHOT"
-ThisBuild / organization := "com.example"
-ThisBuild / organizationName := "example"
+ThisBuild / organization := "com.scenario_world"
+ThisBuild / organizationName := "Scenario World"
 
 lazy val root = (project in file("."))
   .settings(
